@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601319770 source:c:\users\bardi\desktop\meu\exercicio_dardo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
